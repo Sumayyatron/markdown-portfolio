@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Shoot, I forgot how to use markdown emphasis.
+
+*Is it like this?*
+
+-Or like this?-
+
+_Or like this?_
+
+**Or like this?**
